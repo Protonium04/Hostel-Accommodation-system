@@ -50,7 +50,8 @@ Supported OS: Windows / Linux
 
 HostelManagement  
 │  
-├── app.py  
+├── app.py 
+├──HostelAccmmodation.sql
 ├── pages  
 │   ├── dashboard.py  
 │   ├── students.py  
@@ -62,11 +63,11 @@ HostelManagement
 │   └── admin_reset.py  
 │  
 ├── utils  
-│   ├── db.py  
+│   ├── db.py 
+│   ├──theme.py
+│   ├──auth.py
+│   ├──_init_.py
 │   └── search.py  
-│  
-├── assets  
-│   └── screenshots  
 │  
 ├── requirements.txt  
 └── README.md  
