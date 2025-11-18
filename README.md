@@ -48,29 +48,29 @@ Supported OS: Windows / Linux
 
 ## Project Folder Structure
 
-HostelManagement  
-│  
-├── app.py 
-├──HostelAccmmodation.sql
-├── pages  
-│   ├── dashboard.py  
-│   ├── students.py  
-│   ├── rooms.py  
-│   ├── bookings.py  
-│   ├── payments.py  
-│   ├── complaints.py  
-│   ├── pending_dues.py  
-│   └── admin_reset.py  
-│  
-├── utils  
-│   ├── db.py 
-│   ├──theme.py
-│   ├──auth.py
-│   ├──_init_.py
-│   └── search.py  
-│  
-├── requirements.txt  
-└── README.md  
+.
+├── app.py
+├── HostelAccommodation.sql
+├── pages
+│   ├── dashboard.py
+│   ├── students.py
+│   ├── rooms.py
+│   ├── bookings.py
+│   ├── payments.py
+│   ├── complaints.py
+│   ├── pending_dues.py
+│   └── admin_reset.py
+│
+├── utils
+│   ├── db.py
+│   ├── theme.py
+│   ├── auth.py
+│   ├── __init__.py
+│   └── search.py
+│
+├── requirements.txt
+└── README.md
+
 
 ---
 
